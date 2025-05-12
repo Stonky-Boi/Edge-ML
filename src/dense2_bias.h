@@ -1,0 +1,9 @@
+#ifndef DENSE2_BIAS_H
+#define DENSE2_BIAS_H
+#include <pgmspace.h>
+
+const float dense2_bias[10] PROGMEM = {
+0.02309830,-0.48032254,0.22416316,0.28842902,-0.41519162,0.08539244,0.18720403,0.17417544,-0.09031522,-0.43811530
+
+};
+#endif
