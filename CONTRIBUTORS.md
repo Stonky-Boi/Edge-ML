@@ -12,4 +12,4 @@
 - [Ninad Kulkarni](https://github.com/ninad00)
 - [Prem Pratik](https://github.com/PratSpace07)
 - [Vaidik Shah](https://github.com/VaidikShah0603)
-- [Yash Modi](https://github.com/imYash17)
+- [Yash Modi](https://github.com/YashModi21)
