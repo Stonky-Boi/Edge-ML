@@ -3,7 +3,7 @@
 ## Mentor
 - [Varad Gaekwad](https://github.com/Varad-22)
 
-## Contributors (Alphabetical Order)
+## Contributors
 - [Arnav Kumar](https://github.com/Stonky-Boi)
 - [Ashmita Sharma](https://github.com/ashmita2212)
 - [Aryan Jain](https://github.com/aryanj1412)
