@@ -1,9 +1,9 @@
 # Edge ML: TensorFlow Lite Micro Implementation for ESP8266
 
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Compatible-brightgreen)](https://platformio.org)
-![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/Edge_ML)
-![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/Edge_ML)
-![GitHub License](https://img.shields.io/github/license/Stonky-Boi/Edge_ML)
+![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/Edge-ML)
+![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/Edge-ML)
+![GitHub License](https://img.shields.io/github/license/Stonky-Boi/Edge-ML)
 
 A lightweight neural network implementation optimized for ESP8266 microcontrollers, originally developed for traffic management and crowd control applications at IIT Indore's Electronics Club.
 
@@ -18,7 +18,7 @@ This repository contains a quantized TensorFlow Lite model converted for edge de
 
 ## Repository Structure
 ```
-Edge_ML/
+Edge-ML/
 ├── CONTRIBUTORS.md
 ├── README.md
 ├── platformio.ini
@@ -42,8 +42,8 @@ Edge_ML/
 
 2. **Clone repository**:
 ```
-git clone https://github.com/Stonky-Boi/Edge_ML.git
-cd Edge_ML
+git clone https://github.com/Stonky-Boi/Edge-ML.git
+cd Edge-ML
 ```
 
 3. **Build & Upload**:
